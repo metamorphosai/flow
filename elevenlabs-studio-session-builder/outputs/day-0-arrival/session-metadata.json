@@ -1,0 +1,16 @@
+{
+  "phase": "Phase 1 - Regulate",
+  "day": "Day 0",
+  "title": "Arrival",
+  "subtitle": "Meet your current state",
+  "duration_target": "12-15",
+  "states": [
+    "Landing",
+    "Noticing",
+    "Softening",
+    "Settling"
+  ],
+  "breath_method": "natural breath only, no counting",
+  "completion_message": "Thank you for arriving exactly as you are.",
+  "next_session_prompt": "When you are ready, continue to Day 1 to begin gentle regulation."
+}
