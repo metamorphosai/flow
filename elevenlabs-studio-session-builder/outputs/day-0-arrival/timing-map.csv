@@ -1,5 +1,5 @@
 section_number,state_name,estimated_start,estimated_end,narration_word_count,total_pause_seconds,music_instruction,transition_note
 1,Landing,00:00,03:22,70,159,Continuous ambient bed; subtle tonal shift for landing; keep voice-leading space.,Fade motif over 6-10s into Noticing.
-2,Noticing,03:22,06:45,72,159,Continuous ambient bed; subtle tonal shift for noticing; keep voice-leading space.,Fade motif over 6-10s into Softening.
-3,Softening,06:45,10:10,75,159,Continuous ambient bed; subtle tonal shift for softening; keep voice-leading space.,Fade motif over 6-10s into Settling.
-4,Settling,10:10,13:33,72,159,Continuous ambient bed; subtle tonal shift for settling; keep voice-leading space.,Resolve gently and leave 15-20s of trailing space.
+2,Noticing,03:22,06:42,67,159,Continuous ambient bed; subtle tonal shift for noticing; keep voice-leading space.,Fade motif over 6-10s into Softening.
+3,Softening,06:42,10:06,73,159,Continuous ambient bed; subtle tonal shift for softening; keep voice-leading space.,Fade motif over 6-10s into Settling.
+4,Settling,10:06,13:30,75,159,Continuous ambient bed; subtle tonal shift for settling; keep voice-leading space.,Resolve gently and leave 15-20s of trailing space.

@@ -1,23 +1,23 @@
 Section 1 - Landing
 Landing.
 <break time="10s"/>
-Notice the points of contact beneath you.
+Feel the support under your body.
 <break time="12s"/>
-Let your jaw, shoulders, and belly be unguarded.
+Let the ground carry some of your weight.
 <break time="8s"/>
-There is nothing to force in this moment.
+If there is effort, let it soften by one degree.
 <break time="10s"/>
-Let the body hear this signal: I am here.
+Say quietly inside, I am here.
 <break time="12s"/>
-Allow your breath to move in its own rhythm.
+Let your breath move naturally, without managing it.
 <break time="15s"/>
-Natural breath only, no counting.
+Notice the temperature of the air on your skin.
 <break time="10s"/>
-Name one sensation without changing it.
+Sense your jaw, shoulders, and belly unclenching.
 <break time="8s"/>
-If emotion is present, let it be present and held.
+Nothing needs to be solved in this moment.
 <break time="12s"/>
-Let this settle, then we will continue.
+We are only arriving.
 <break time="10s"/>
 <break time="8s"/>
 <break time="12s"/>
@@ -28,23 +28,23 @@ Let this settle, then we will continue.
 Section 2 - Noticing
 Noticing.
 <break time="10s"/>
-Notice the points of contact beneath you.
+Bring attention to what is present right now.
 <break time="12s"/>
-Let your jaw, shoulders, and belly be unguarded.
+Maybe steadiness, maybe flutter, maybe both.
 <break time="8s"/>
-There is nothing to force in this moment.
+Name one sensation: warm, tight, heavy, open.
 <break time="10s"/>
-Let the body hear this signal: This is what is present.
+Let it be information, not a problem.
 <break time="12s"/>
-Allow your breath to move in its own rhythm.
+Your breath can stay natural and unforced.
 <break time="15s"/>
-Natural breath only, no counting.
+Notice where your body feels most clear.
 <break time="10s"/>
-Name one sensation without changing it.
+Notice where your body asks for gentleness.
 <break time="8s"/>
-If emotion is present, let it be present and held.
+This is what is present, and enough for now.
 <break time="12s"/>
-Let this settle, then we will continue.
+We are listening, not fixing.
 <break time="10s"/>
 <break time="8s"/>
 <break time="12s"/>
@@ -55,23 +55,23 @@ Let this settle, then we will continue.
 Section 3 - Softening
 Softening.
 <break time="10s"/>
-Notice the points of contact beneath you.
+If your body is bracing, let it know: safe.
 <break time="12s"/>
-Let your jaw, shoulders, and belly be unguarded.
+Invite the exhale to soften, only if it wants.
 <break time="8s"/>
-There is nothing to force in this moment.
+Let the chest be a little more spacious.
 <break time="10s"/>
-Let the body hear this signal: I do not need to change it yet.
+Let the throat be less guarded.
 <break time="12s"/>
-Allow your breath to move in its own rhythm.
+You do not need to change what you feel.
 <break time="15s"/>
-Natural breath only, no counting.
+Make room for it, with kindness.
 <break time="10s"/>
-Name one sensation without changing it.
+Let the signal be: I can stay with this.
 <break time="8s"/>
-If emotion is present, let it be present and held.
+Signal: I do not have to rush.
 <break time="12s"/>
-Let this settle, then we will continue.
+Softening can be small, and real.
 <break time="10s"/>
 <break time="8s"/>
 <break time="12s"/>
@@ -82,23 +82,23 @@ Let this settle, then we will continue.
 Section 4 - Settling
 Settling.
 <break time="10s"/>
-Notice the points of contact beneath you.
+Feel your body now, compared with the beginning.
 <break time="12s"/>
-Let your jaw, shoulders, and belly be unguarded.
+No need to measure it, just sense it.
 <break time="8s"/>
-There is nothing to force in this moment.
+Let your attention rest in one steady place.
 <break time="10s"/>
-Let the body hear this signal: Something in me can rest.
+Maybe the belly, maybe the heart, maybe your hands.
 <break time="12s"/>
-Allow your breath to move in its own rhythm.
+Natural breath, easy and uncounted.
 <break time="15s"/>
-Natural breath only, no counting.
+Something in you can rest here for a moment.
 <break time="10s"/>
-Name one sensation without changing it.
+Let quiet gather around that resting place.
 <break time="8s"/>
-If emotion is present, let it be present and held.
+When ready, carry this softness into the next part of your day.
 <break time="12s"/>
-Stay here for a few quiet breaths.
+You are complete for today.
 <break time="10s"/>
 <break time="8s"/>
 <break time="12s"/>
