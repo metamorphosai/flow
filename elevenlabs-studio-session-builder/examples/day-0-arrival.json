@@ -1,0 +1,27 @@
+{
+  "phase_name": "Phase 1 - Regulate",
+  "day_number": "Day 0",
+  "session_title": "Arrival",
+  "subtitle": "Meet your current state",
+  "session_purpose": "Create safety before regulation begins",
+  "total_target_duration_minutes": "12-15",
+  "number_of_states": 4,
+  "state_names": [
+    "Landing",
+    "Noticing",
+    "Softening",
+    "Settling"
+  ],
+  "state_intentions": [
+    "I am here",
+    "This is what is present",
+    "I do not need to change it yet",
+    "Something in me can rest"
+  ],
+  "voice_style": "calm, spacious, slow, grounded, emotionally safe",
+  "pause_style": "long pauses, mostly 8-12 seconds, occasional 15 seconds",
+  "music_style": "ambient, spacious, low movement, warm, regulation-first, no percussion",
+  "breath_method": "natural breath only, no counting",
+  "transition_goal": "prepare the user for Day 1 regulation without creating pressure",
+  "output_format": "mp3 and wav"
+}
